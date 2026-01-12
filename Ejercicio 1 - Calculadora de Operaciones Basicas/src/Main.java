@@ -1,11 +1,11 @@
 /*
-Ejercicio 1: Calculadora de Operaciones Básicas Enunciado
-Crear un programa que solicite dos números enteros y muestre:
-- Suma
-- Resta
-- Multiplicación
-- División (validando división entre cero)
-- Módulo
+	Ejercicio 1: Calculadora de Operaciones Básicas Enunciado
+	Crear un programa que solicite dos números enteros y muestre:
+	- Suma
+	- Resta
+	- Multiplicación
+	- División (validando división entre cero)
+	- Módulo
 */
 
 import java.util.Scanner;
